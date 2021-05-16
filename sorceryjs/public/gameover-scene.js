@@ -14,7 +14,7 @@ export default class GameOverScene extends Phaser.Scene {
 	}
 
     swapscene() {
-        this.scene.start('splash-scene')
+        this.scene.start('high-score-scene')
         this.scene.stop('gameover-scene') 
     }    
 }

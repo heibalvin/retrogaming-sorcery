@@ -5,14 +5,11 @@ export default class GameScene extends Phaser.Scene {
 
 	preload() {
         this.load.image('game-screen', './assets/cpc.screen/game-screen.png')
+		this.load.atlas('spritesheet', './assets/cpc-spritesheet.png', './assets/cpc-spritesheet-atlas.json')
     }
 
     create() {
-		this.add.image(160, 100, 'game-screen')
+		this.add.sprite(160, 100, 'spritesheet', 'wizard-0')
 
-		this.input.on('pointerdown', () => {
-            this.scene.start('gameover-scene')
-            this.scene.stop('game-scene')            
-        })
 	}
 }

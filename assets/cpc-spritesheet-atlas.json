@@ -1,0 +1,957 @@
+{
+    "frames": [
+        {
+            "filename": "wizard-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wizard-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 24,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wizard-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 48,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wizard-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 72,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wizard-4",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 96,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wizard-5",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 120,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "prisoner-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 144,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "prisoner-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 168,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "prisoner-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "prisoner-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 24,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "monk-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 48,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "monk-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 72,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "monk-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 96,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "monk-5",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 120,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "monk-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 144,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "monk-4",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 168,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ghost-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ghost-5",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 24,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ghost-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 48,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ghost-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 72,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ghost-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 96,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ghost-4",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 120,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boar-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 144,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boar-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 168,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boar-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boar-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 24,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "eye-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 48,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "eye-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 72,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "eye-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 96,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "eye-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 120,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "mask-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 144,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "mask-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 168,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "mask-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "mask-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 24,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 48,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 72,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 96,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 120,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "water-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 144,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "water-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 168,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "water-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 120
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "water-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 24,
+                "y": 120
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "water-4",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 48,
+                "y": 120
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "water-5",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 72,
+                "y": 120
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "burn-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 96,
+                "y": 120
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "burn-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 120,
+                "y": 120
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "star-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 144,
+                "y": 120
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "star-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 168,
+                "y": 120
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "star-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "star-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 24,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "chauldron",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 48,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "goblet-of-wine",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 72,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "golden-chalice",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 96,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spell-book",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 120,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "jewelled-crown",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 144,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "little-lyre",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 168,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "magic-wand",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scroll",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 24,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sorcerer-moon",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 48,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "door-0",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 72,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "door-1",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 96,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "door-2",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 120,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "door-3",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 144,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "horizontal-lock",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 168,
+                "y": 168
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vertical-lock",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "candelstick",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 24,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "coat-of-arm",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 48,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "large-bottle",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 72,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sack-of-spell",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 96,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "shooting-star",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 120,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ball-and-chain",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 144,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "strong-sword",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 168,
+                "y": 192
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "sharp-axe",
+            "frame": {
+                "w": 24,
+                "h": 24,
+                "x": 0,
+                "y": 216
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

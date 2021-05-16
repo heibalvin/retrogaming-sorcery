@@ -1,0 +1,220 @@
+{
+    "anims": [
+        {
+            "key": "mask-idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "mask-0"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "mask-1"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "mask-2"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "mask-3"
+                }
+            ]
+        },
+        {
+            "key": "eye-idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "eye-0"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "eye-1"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "eye-2"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "eye-3"
+                }
+            ]
+        },
+        {
+            "key": "boar-idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "boar-0"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "boar-1"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "boar-2"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "boar-3"
+                }
+            ]
+        },
+        {
+            "key": "ghost-idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "ghost-0"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "ghost-1"
+                }
+            ]
+        },
+        {
+            "key": "monk-idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "monk-0"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "monk-1"
+                }
+            ]
+        },
+        {
+            "key": "ghost-right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "ghost-2"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "ghost-3"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "ghost-4"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "ghost-5"
+                }
+            ]
+        },
+        {
+            "key": "monk-right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "monk-2"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "monk-5"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "monk-3"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "monk-4"
+                }
+            ]
+        },
+        {
+            "key": "prisoner-idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "prisoner-0"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "prisoner-1"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "prisoner-2"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "prisoner-3"
+                }
+            ]
+        },
+        {
+            "key": "wizard-right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "wizard-2"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "wizard-3"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "wizard-4"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "wizard-5"
+                }
+            ]
+        },
+        {
+            "key": "wizard-idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "wizard-1"
+                },
+                {
+                    "key": "cpc-spritesheet",
+                    "frame": "wizard-0"
+                }
+            ]
+        }
+    ]
+}

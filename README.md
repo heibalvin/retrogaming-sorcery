@@ -49,7 +49,7 @@ PS: all ennemies are vulnerable to Shooting Star & Sack of Spells
 |![Shooting Star](./assets/cpc.atlas/shooting-star.png)|Shooting Star|Kills all monsters|
 |![Sack of Spell](./assets/cpc.atlas/sack-of-spell.png)|Sack of Spell|Kills all monsters|
 |![Ball & Chain](./assets/cpc.atlas/ball-and-chain.png)|Ball & Chain|Kills Eyes, Mask and Boar|
-|![Strong Sword](./assets/cpc.atlas/strong-sword.png)|String Sword|Kills Monks|
+|![Strong Sword](./assets/cpc.atlas/strong-sword.png)|Strong Sword|Kills Monks|
 |![Sharp Axe](./assets/cpc.atlas/sharp-axe.png)|Sharp Axe|Kills Ghosts|
 
 ## II. FILE STRUCTURE

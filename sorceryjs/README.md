@@ -11,6 +11,13 @@ Multiple Scenes to manage the game:
  * **TitleScene** with Sorcery Logo and awaiting mouse/touch
  * **GameScene** the Sorcery Game.
 
+
+## PHASER3 SPRITESHEET
+
+[GammaFP Atlas Packer](https://gammafp.com/tool/atlas-packer/)  
+[GammaFP Animator](https://gammafp.com/tool/animator/)
+ 
+
 ## PHASER3 AUTOCOMPLETION
 
 Steps:
