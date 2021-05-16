@@ -1,6 +1,7 @@
 import SplashScene from './splash-scene.js'
 import TitleScene from './title-scene.js'
 import GameScene from './game-scene.js'
+import GameOverScene from './gameover-scene.js'
 
 const DEFAULT_WIDTH = 320
 const DEFAULT_HEIGHT = 200
@@ -24,7 +25,7 @@ const config = {
     width: DEFAULT_WIDTH,
     height: DEFAULT_HEIGHT
   },
-  scene: [SplashScene, TitleScene, GameScene]
+  scene: [SplashScene, TitleScene, GameScene, GameOverScene]
 };
 
 const game = new Phaser.Game(config);
