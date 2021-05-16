@@ -55,7 +55,7 @@ PS: all ennemies are vulnerable to Shooting Star & Sack of Spells
 ## II. FILE STRUCTURE
 
  * Assets with currently cpc version of spritesheets. Could be referenced by different game versions.
- * Javascript NodeJS / Phaser 3 version here: [sorceryjs](./soceryjs/README.md)
+ * Javascript NodeJS / Phaser 3 version here: [sorceryjs](https://github.com/heibalvin/gaming-sorcery/tree/main/sorceryjs)
 
 ## III. REFERENCES
  * [www.cpc-power.com](https://www.cpc-power.com/index.php?page=detail&onglet=dsk&num=1988)
