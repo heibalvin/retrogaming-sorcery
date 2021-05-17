@@ -18,7 +18,8 @@ const config = {
   physics: {
     default: 'arcade',
     arcade: {
-      fps: 60
+        gravity: { y: 100 },
+        debug: true
     }
   },
   scale: {
@@ -27,7 +28,8 @@ const config = {
     width: DEFAULT_WIDTH,
     height: DEFAULT_HEIGHT
   },
-  scene: [SplashScene, TitleScene, GameScene, GameOverScene, HighScoreScene, HallOfFameScene]
+  scene: [GameScene]
+  // scene: [SplashScene, TitleScene, GameScene, GameOverScene, HighScoreScene, HallOfFameScene]
 };
 
 const game = new Phaser.Game(config);
