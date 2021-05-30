@@ -10,14 +10,23 @@ export default class GameScene extends Phaser.Scene {
 	}
 
 	preload() {
-        this.load.image('game-screen', './assets/cpc.screen/village-spawn-1.png')
+        // this.load.image('game-screen', './assets/cpc.screen/village-spawn-1.png')
 		this.load.image('game-menu', './assets/cpc.screen/village-menu-1.png')
+
+		this.load.image('tiles', './assets/cpc.maps/sorcery-village-1-tileset.png')
+		this.load.tilemapTiledJSON('tilemap', './assets/cpc.maps/sorcery-village-1-tilemap.json')
+		// this.load.tilemapCSV('tilemap', './assets/cpc.maps/village-spawn-1_map.csv')
 
 		this.load.atlas('spritesheet', './assets/cpc-spritesheet.png', './assets/cpc-spritesheet-atlas.json')
     }
 
     create() {
-		this.add.image(160, 72, 'game-screen')
+		const map = this.make.tilemap({ key: 'tilemap', tileWidth: 8, tileHeight: 8 })
+		const tileset = map.addTilesetImage('sorcery-village-1-tileset.png', 'tiles')
+		const layer = map.createLayer('samples/sorcery-village-1-layer-1', tileset)
+		// const layer = map.createLayer(0, tileset, 0, 0)
+		// layer.setCollisionFromCollisionGroup();
+
 		this.add.image(160, 172, 'game-menu')
 		this.physics.world.setBounds(0, 0, 320, 144)
 
@@ -37,12 +46,10 @@ export default class GameScene extends Phaser.Scene {
 		this.physics.add.existing(this.ennemies[1], { allowGravity: false})
 
 		this.wizards.push(this.add.sprite(17*8+4, 2*8+4, 'spritesheet', 'wizard-0'))
-		this.physics.add.existing(this.wizards[0]);
+		this.physics.add.existing(this.wizards[0])
 		this.wizards[0].body.setCollideWorldBounds(true)
 		
-		
-		this.cursors = this.input.keyboard.createCursorKeys();
-
+		this.cursors = this.input.keyboard.createCursorKeys()
 	}
 
 	update(time, delta) {
